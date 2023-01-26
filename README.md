@@ -4,7 +4,7 @@ React app with using react hooks and github rest api
 
 ## Technologies
 
-`react`, `react hooks`, `github rest api`
+`react`
 
 ## Available Scripts
 
